@@ -1,0 +1,21 @@
+#!/usr/bin/env ruby
+
+site 'https://supermarket.getchef.com/api/v1'
+
+cookbook 'sprout-mysql',
+  :github => 'pivotal-sprout/sprout-mysql'
+
+cookbook 'sprout-base',
+  :github => 'pivotal-sprout/sprout-base'
+
+# cookbook 'sprout-osx-apps',
+#   :git => 'git://github.com/ajam/sprout-osx-apps.git'
+
+cookbook 'sprout-homebrew',
+  :github => 'pivotal-sprout/sprout-homebrew'
+
+cookbook 'sprout-ssh',
+  :github => 'pivotal-sprout/sprout-ssh'
+
+cookbook 'sprout-rvm',
+  :git => 'git://github.com/al-jazeera-america/sprout-rvm.git'
