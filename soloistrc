@@ -6,9 +6,6 @@ recipes:
 - sprout-base::homebrew
 - sprout-homebrew
 
-# settings
-- sprout-ssh::known_hosts_github
-
 # development (general)
 - sprout-base::workspace_directory
 
