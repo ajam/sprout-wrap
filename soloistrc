@@ -92,3 +92,6 @@ node_attributes:
       clear_apps: true
       tile_size: 35
       magnification': false
+    homebrew:
+      formulae:
+        - qgis-24
