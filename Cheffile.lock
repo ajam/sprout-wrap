@@ -7,7 +7,7 @@ SITE
 GIT
   remote: git://github.com/ajam/sprout-osx-apps.git
   ref: master
-  sha: 573814dcdda8e2227afc58fa2db6c6e2f6475250
+  sha: bdae286a7f6b82bf16611c9f98c8b009a6e214e7
   specs:
     sprout-osx-apps (0.1.0)
       dmg (>= 0.0.0)

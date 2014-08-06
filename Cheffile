@@ -14,8 +14,5 @@ cookbook 'sprout-osx-apps',
 cookbook 'sprout-homebrew',
   :github => 'pivotal-sprout/sprout-homebrew'
 
-cookbook 'sprout-ssh',
-  :github => 'pivotal-sprout/sprout-ssh'
-
 cookbook 'sprout-rvm',
   :git => 'git://github.com/al-jazeera-america/sprout-rvm.git'
