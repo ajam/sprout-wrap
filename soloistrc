@@ -45,6 +45,7 @@ recipes:
 - sprout-osx-apps::hipchat
 - sprout-osx-apps::iterm2
 - sprout-osx-apps::java
+- sprout-osx-apps::little_snitch
 - sprout-osx-apps::macvim
 - sprout-osx-apps::matplotlib
 - sprout-osx-apps::miro-video-converter
