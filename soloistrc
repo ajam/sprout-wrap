@@ -59,6 +59,7 @@ recipes:
 - sprout-osx-apps::qgis
 - sprout-osx-apps::r
 - sprout-osx-apps::rstudio
+- sprout-osx-apps::xquartz
 - sprout-osx-apps::scripts-brew
 - sprout-osx-apps::scripts-node
 - sprout-osx-apps::scripts-python
